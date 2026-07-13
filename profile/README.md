@@ -16,16 +16,6 @@ work is open source, some commercial.
 groundwork is the part everyone skimps on, and it's the part that matters most. That's
 the bar we hold ourselves to.
 
-## First up
-
-**Kiban Dojo** &nbsp;`FREE` &nbsp;`OPEN SOURCE` &nbsp;`IN THE WORKS`
-
-Get hired as a platform engineer by doing the real job. A free, open-source dojo that
-drops you into the actual work, real tooling, real failures, real fixes, until you can
-do the job and not just talk about it.
-
-Not public yet. More is in the works: platform tools, services, and the core platform.
-
 ## Around here
 
 - Code ships under permissive licenses. Open content ships under Creative Commons.
